@@ -1,0 +1,9 @@
+[
+  {"id": 1, "titulo": "Dom Casmurro", "autor": "machado de assis", "preco": 39.9, "lancado_em": "2024-03-10"},
+  {"id": 2, "titulo": "O Cortiço", "autor": "ALUISIO AZEVEDO", "preco": "29,50", "lancado_em": "15/07/2024"},
+  {"id": 3, "titulo": "Iracema", "autor": "José de Alencar", "preco": 25.0, "lancado_em": "2024-01-05"},
+  {"id": 2, "titulo": "O Cortiço", "autor": "ALUISIO AZEVEDO", "preco": "29,50", "lancado_em": "15/07/2024"},
+  {"id": 4, "titulo": "Vidas Secas", "autor": "graciliano ramos", "preco": "42,00", "lancado_em": "02/02/2025"},
+  {"id": 5, "titulo": "Macunaíma", "autor": "Mário de Andrade", "preco": 33.4, "lancado_em": "2025-06-20"},
+  {"id": 6, "titulo": "Capitães da Areia", "autor": "jorge amado", "preco": "37,80", "lancado_em": "2025-09-01"}
+]

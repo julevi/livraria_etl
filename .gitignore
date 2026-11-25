@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python e do pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Saídas geradas pelo ETL (recriadas ao rodar etl.py)
+livraria.db
+brutos/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
